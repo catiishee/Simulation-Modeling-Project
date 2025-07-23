@@ -47,6 +47,3 @@ This project focuses on developing a discrete-event simulation model of a bar us
 
 ## Acknowledgments
 This project was supervised by D.S. Smirnov and includes insights from his lectures on simulation modeling.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
