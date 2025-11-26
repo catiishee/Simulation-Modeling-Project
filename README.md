@@ -42,8 +42,4 @@ This project focuses on developing a discrete-event simulation model of a bar us
 ## Requirements
 - **AnyLogic Software**: This model requires AnyLogic to run simulations. Download it from the [AnyLogic Official Website](https://www.anylogic.com/downloads/).
 
-## Authors
-- **Ekaterina Shcherbinina** - Student, Group B21-901, National Research Nuclear University MEPhI.
 
-## Acknowledgments
-This project was supervised by D.S. Smirnov and includes insights from his lectures on simulation modeling.
